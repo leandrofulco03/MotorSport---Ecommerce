@@ -1,0 +1,29 @@
+[
+    {
+        "id": 3,
+        "tipo": "Limpieza",
+        "nombre": "REVIVIDOR COLOR NEGRO 490 ML",
+        "precio": 500,
+        "stock": 17,
+        "imagen": "./img/revividornegro.jpg",
+        "cant": 0
+    },
+    {
+        "id": 4,
+        "tipo": "Accesorio",
+        "nombre": "ESCOBILLA ULTRA BLADE 20",
+        "precio": 1820,
+        "stock": 11,
+        "imagen": "./img/escobilla.jpg",
+        "cant": 0
+    },
+    {
+        "id": 5,
+        "tipo": "Viajes",
+        "nombre": "BIDON NAFTA ROJO 25LT",
+        "precio": 6470,
+        "stock": 36,
+        "imagen": "./img/bidonnaftarojo.jpg",
+        "cant": 0
+    }
+]
